@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Sekolah Kami</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Sekolah Kami</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">Tentang Kami</a></li>
+          <li><a href="#courses">Kurikulum</a></li>
+          <li><a href="#teachers">Guru</a></li>
+          <li><a href="#contact">Kontak</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h2>Tentang Kami</h2>
+        <p>Sekolah Kami adalah sekolah yang berkomitmen untuk menyediakan pendidikan yang berkualitas dengan fasilitas yang modern dan guru yang berpengalaman.</p>
+      </section>
+      <section id="courses">
+        <h2>Kurikulum</h2>
+        <p>Sekolah Kami menawarkan kurikulum yang komprehensif dan mencakup matematika, ilmu pengetahuan, bahasa Inggris, dan banyak mata pelajaran lainnya.</p>
+      </section>
+      <section id="teachers">
+        <h2>Guru</h2>
+        <p>Sekolah Kami memiliki guru yang berpengalaman dan berkualitas yang akan membantu siswa mencapai potensi mereka.</p>
+      </section>
+      <section id="contact">
+        <h2>Kontak</h2>
+        <p>Hubungi kami untuk informasi lebih lanjut:</p>
+        <ul>
+          <li>Alamat: Jalan Raya, Kota, Negara</li>
+          <li>Telepon: +1234567890</li>
+          <li>Email: info@sekolahkami.com</li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2022 Sekolah Kami</p>
+    </footer>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
